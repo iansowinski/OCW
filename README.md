@@ -5,7 +5,7 @@
 - [Lectures (youtube)](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
 - *[Materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm)*
 
-## 18.01
+## 18.01 Single Variable Calculus
 
 - [Lectures (youtube)](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1)
 - [Homework help (youtube)](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1)
